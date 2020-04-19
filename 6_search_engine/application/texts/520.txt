@@ -1,0 +1,1 @@
+pregnancyAU = CASnumber = 25683-71-0 DrugBank = ChemSpiderID = 59144 UNII = 1199LEX5N8 KEGG = D07247 StdInChI = **48;257028;TOOLONG ( 4-3-9 ) **42;257078;TOOLONG , ( H , 17,19 ) ( H , 18,20 ) /b15-5+,16-6+ StdInChIKey = **27;257122;TOOLONG Terizidone is a drug used in the treatment of tuberculosis . 

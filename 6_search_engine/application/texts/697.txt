@@ -1,0 +1,1 @@
+ICD9 = ICDO = OMIM = MedlinePlus = eMedicineSubj = med eMedicineTopic = 1161 MeshID = D017099 IgG deficiency ( Selective deficiency of immunoglobulin G ) is a form of dysgammaglobulinemia where the proportional levels of IgG are reduced relative to other immunoglobulin . It is possible to have a deficiency of one or more specific subclass(es) of IgG. 

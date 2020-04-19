@@ -1,0 +1,1 @@
+CFU-GEMM is a colony forming unit that generates myeloid cells . CFU-GEMM cells are multipotential progenitor cells . GEMM stands for granulocyte , erythrocyte , monocyte , megakaryocyte . CFU-GEMM gives rise to CFU-GM . It has been suggested that eosinophils do not derive from the common myeloid progenitor . 

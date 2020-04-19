@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+    <div class="content-section">
+         <form method="POST">
+            <div class="form-group">
+                <input class="border-bottom mb-4 btn btn-outline-form" type="submit" name="prepare data" value="Prepare Data">
+            </div>
+        </form>
+        <form method="POST" action="">
+            <fieldset class="form-group">
+                <legend class="border-bottom mb-4">Search</legend>
+                <div>
+                    <label>What to find</label>
+                    <input type="text" name="text" id="text">
+                </div>
+                <div>
+                    <label>Number of results</label>
+                    <input type="text" name="k" id="k">
+                </div>
+                <input class="btn btn-outline-form" type="submit" value="Search">
+            </fieldset>
+        </form>
+        {% for result in results %}
+        <article class="media content-section">
+          <div class="media-body">
+            <h5><a class="article-title">{{ result }}</a></h5>
+          </div>
+        </article>
+        {% endfor %}
+    </div>
+{% endblock content %}

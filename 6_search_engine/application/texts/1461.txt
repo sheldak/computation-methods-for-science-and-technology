@@ -1,0 +1,1 @@
+ChEMBL = 493481 ChemSpiderID = 83448 ChEBI = 39393 StdInChI = **134;333023;TOOLONG StdInChIKey = **27;333159;TOOLONG Silafluofen is an organosilicon compound that functions as a pyrethroid insecticide. 

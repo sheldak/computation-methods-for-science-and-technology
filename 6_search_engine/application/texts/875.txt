@@ -1,0 +1,1 @@
+ChemSpiderID = 112538 ChEMBL = 293762 StdInChI = **48;114831;TOOLONG , ( H2,8,9 ) StdInChIKey = **27;114881;TOOLONG CASNo=142437-67-0 Amthamine is a histamine agonist selective for the H <sub> 2 </sub> subtype . It has been used ' ' in vitro ' ' and ' ' in vivo ' ' to study gastric secretion , as well as other functions of the H <sub> 2 </sub> receptor. 

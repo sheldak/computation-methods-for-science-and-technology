@@ -1,0 +1,1 @@
+LightningPaint was a monochrome , black + white bitmap graphics editor for the Apple Macintosh series of personal computers . Written in Lightspeed C , the program was similar to MacPaint , but distributed as shareware long after Apple stopped bundling MacPaint with new computers . 

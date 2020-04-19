@@ -1,0 +1,1 @@
+In mathematics , more specifically in cohomology theory , a <math> q , ! </math> -cocycle <math> alpha , ! </math> in the cochain group <math> Sq(X) , ! </math> is associated with a unique equivalence class <math> alpha in Hq(X) , ! </math> known as the cocycle class or coclass of <math> alpha . , ! </math> 

@@ -1,0 +1,1 @@
+is a railway station of Shinano Railway , located in Sakaki , the town of Sakaki , Hanishina District , Nagano Prefecture , Japan . # Layout # This station has an island platform . border= 1 cellspacing= 0 cellpadding= 3 frame= hsides rules= rows ! 1 - ! 2 # History # *15 August 1888 : Sakaki Station opened . # Adjacent stations # ! colspan=5 <center> Shinano Railway </center> 

@@ -1,0 +1,1 @@
+trucks = width = fueltype = Diesel tractiveeffort = TCDD E8000 is a diesel-hydraulic locomotive operated by the Turkish State Railways ( TCDD ) . A total of 26 units were delivered from 1999 by Tlomsa . They are a hydraulic derivative of DE11000 delivered in the 1980s. 

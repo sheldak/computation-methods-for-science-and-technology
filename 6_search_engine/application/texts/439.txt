@@ -1,0 +1,1 @@
+timezone=CET officialname=Jen map= subdivisiontype1=County subdivisionname1=Fejr areatotalkm2=5.56 populationtotal=1309 populationasof=2004 **27;291832;TOOLONG postalcodetype=Postal code postalcode=8146 areacode=22 pushpinmap =Hungary latd=47.10946 longd=18.24811 website= Jen is a village in Fejr county , Hungary . 

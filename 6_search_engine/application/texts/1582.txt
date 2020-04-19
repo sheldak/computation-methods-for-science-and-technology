@@ -1,0 +1,1 @@
+Askbot is an open source question and answer oriented Internet forum started as a on July 2009 , similar to Stack Overflow or Yahoo Answers . Based on CNPROG and some code written for OSQA , it is primarily developed and maintained by Evgeny Fadeev . Large open source software projects like Fedora and LibreOffice use it as their main Q&amp;A website. 

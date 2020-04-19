@@ -1,0 +1,1 @@
+AmiQNX is a QNX implementation for the Amiga computers . 

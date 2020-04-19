@@ -1,0 +1,1 @@
+This is a list of national airlines currently operating in Portugal border=0 cellpadding=2 cellspacing=3 class= wikitable sortable ! AIRLINE ! ICAO ! IATA ! CALLSIGN ! COMMENCED <BR> OPERATIONS ! REMARKS 

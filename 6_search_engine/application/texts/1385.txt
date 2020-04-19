@@ -1,0 +1,1 @@
+In mathematics , the effective topos is a topos introduced by , based on Kleene 's notion of recursive realizability , that captures the idea of effectivity in mathematics . 
